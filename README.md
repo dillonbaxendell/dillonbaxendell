@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Dillon Baxendell! </h2>
-<img align='right' src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="400">
+<!-- <img align='right' src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="400"> -->
 <h3>I'm currently a...</h3>
 <p><em>UI Developer at <a href="https://www.calabrio.com/">Calabrio, Inc</a></br>Graduate and Developer Mentor at <a href="https://www.primeacademy.io/">Prime Digital Academy</a>
 </em></p>
